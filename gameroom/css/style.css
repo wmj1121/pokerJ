@@ -361,6 +361,13 @@
     left:160px;
 }
 
+.chat div {
+    position:absolute;
+    width:100%;
+    top:65px;
+    left:10px;
+}
+
 .chat span {
     color:#666666;
 }
